@@ -5,7 +5,7 @@
             "name": "啟動",
             "type": "node",
             "request": "launch",
-            "program": "${workspaceRoot}/Part-1-Type-Value-Variable/testScope2.js",
+            "program": "${workspaceRoot}/Part-1-Type-Value-Variable/testVariableHoisting2.js",
             "stopOnEntry": false,
             "args": [],
             "cwd": "${workspaceRoot}",
